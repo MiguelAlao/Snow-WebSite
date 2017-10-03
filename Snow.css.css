@@ -12,16 +12,17 @@ body {
 	background-color: lightyellow; padding: 20px;
 }
 
+section a {
+	color: green;
+}
+
 html { 
 	background-color: lightblue; 
    margin: 50px;
 }
 
 
-section A {
-	font-size-adjust: 10px;
-	
-}
+
 
 
 
